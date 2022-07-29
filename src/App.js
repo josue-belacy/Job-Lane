@@ -1,7 +1,13 @@
+import Landing from "./pages/Landing"
+
 function App() {
   return (
-    <h1>JobLane</h1>
-  );
+    <div>
+      
+      <h1>JobLane</h1>
+      <Landing />
+    </div>
+  )
 }
 
 export default App;
